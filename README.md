@@ -1,6 +1,7 @@
 # Coursera_Capstone
+
 Introducción 
-El objetivo es encontrar lugares ideales para poder abrir un restaurante de la marca comercial 'Menu', en un lugar donde haya afluencia de gente para generar ganancias y que también se encuentre en ventaja competitiva con los restaurantes cercanos del lugar.
+El objetivo es encontrar lugares ideales para poder abrir un restaurante de la marca comercial 'Menu' en la Ciudad de Toronto; en un lugar donde haya afluencia de gente para generar ganancias y que también se encuentre en ventaja competitiva con los restaurantes cercanos del lugar.
 
 Datos:
 Se usará la información de ubicación proveída por Foursquare
