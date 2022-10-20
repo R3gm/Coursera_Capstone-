@@ -1,5 +1,7 @@
 # Coursera_Capstone
 
+# Nombre: Roger Condori Flores
+
 Introducción:   
 El objetivo es encontrar lugares ideales para poder abrir un restaurante de la marca comercial 'Menu' en la Ciudad de Toronto; en un lugar donde haya afluencia de gente para generar ganancias y que también se encuentre en ventaja competitiva con los restaurantes cercanos del lugar.
     
