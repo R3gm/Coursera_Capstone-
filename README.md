@@ -16,6 +16,8 @@ En base a los resultados del análisis, se identificaron dos áreas prometedoras
 
 - Latitud = 43.689525, Longitud = -79.295024 en un radio de 2000 metros aproximadamente.
 - Latitud = 43.683466, Longitud = -79.323869 en un radio de 1500 metros aproximadamente.
+
+
 Estas ubicaciones fueron seleccionadas considerando la competencia y la afluencia de personas en la zona. Es importante evitar establecer la sucursal en lugares con poca afluencia de personas para maximizar las ganancias.
 
 
