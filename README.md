@@ -19,3 +19,6 @@ En base a los resultados del análisis, se identificaron dos áreas prometedoras
 Estas ubicaciones fueron seleccionadas considerando la competencia y la afluencia de personas en la zona. Es importante evitar establecer la sucursal en lugares con poca afluencia de personas para maximizar las ganancias.
 
 
+<p align="center">
+  <img src="imagen_2023-05-06_201645322.png" alt="Alt Text">
+</p>
